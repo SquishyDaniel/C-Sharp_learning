@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="c-sharp-project/c-sharp-project.csproj" />
+  <Project Path="opdracht01\opdracht01.csproj" />
+  <Project Path="opdracht02\opdracht02.csproj" />
 </Solution>

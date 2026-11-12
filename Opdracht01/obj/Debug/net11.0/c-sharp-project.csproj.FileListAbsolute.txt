@@ -1,0 +1,17 @@
+/Users/daniel/RiderProjects/c-sharp-project/c-sharp-project/bin/Debug/net11.0/c-sharp-project
+/Users/daniel/RiderProjects/c-sharp-project/c-sharp-project/bin/Debug/net11.0/c-sharp-project.deps.json
+/Users/daniel/RiderProjects/c-sharp-project/c-sharp-project/bin/Debug/net11.0/c-sharp-project.runtimeconfig.json
+/Users/daniel/RiderProjects/c-sharp-project/c-sharp-project/bin/Debug/net11.0/c-sharp-project.runtimeconfig.dev.json
+/Users/daniel/RiderProjects/c-sharp-project/c-sharp-project/bin/Debug/net11.0/c-sharp-project.dll
+/Users/daniel/RiderProjects/c-sharp-project/c-sharp-project/bin/Debug/net11.0/c-sharp-project.pdb
+/Users/daniel/RiderProjects/c-sharp-project/c-sharp-project/obj/Debug/net11.0/c-sharp-project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/RiderProjects/c-sharp-project/c-sharp-project/obj/Debug/net11.0/c-sharp-project.AssemblyInfoInputs.cache
+/Users/daniel/RiderProjects/c-sharp-project/c-sharp-project/obj/Debug/net11.0/c-sharp-project.AssemblyInfo.cs
+/Users/daniel/RiderProjects/c-sharp-project/c-sharp-project/obj/Debug/net11.0/c-sharp-project.csproj.CoreCompileInputs.cache
+/Users/daniel/RiderProjects/c-sharp-project/c-sharp-project/obj/Debug/net11.0/c-sharp-project.dll
+/Users/daniel/RiderProjects/c-sharp-project/c-sharp-project/obj/Debug/net11.0/refint/c-sharp-project.dll
+/Users/daniel/RiderProjects/c-sharp-project/c-sharp-project/obj/Debug/net11.0/c-sharp-project.pdb
+/Users/daniel/RiderProjects/c-sharp-project/c-sharp-project/obj/Debug/net11.0/c-sharp-project.genruntimeconfig.cache
+/Users/daniel/RiderProjects/c-sharp-project/c-sharp-project/obj/Debug/net11.0/ref/c-sharp-project.dll
+/Users/daniel/RiderProjects/c-sharp-project/c-sharp-project/obj/Debug/net11.0/c-sharp-.28E2091F.Up2Date
+/Users/daniel/RiderProjects/c-sharp-project/c-sharp-project/obj/Debug/net11.0/c-sharp-project.sourcelink.json
