@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="opdracht01\opdracht01.csproj" />
   <Project Path="opdracht02\opdracht02.csproj" />
+  <Project Path="opdracht03/opdracht03.csproj" />
 </Solution>
