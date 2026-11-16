@@ -4,4 +4,5 @@
   <Project Path="opdracht03/opdracht03.csproj" />
   <Project Path="opdracht04/opdracht04.csproj" />
   <Project Path="opdracht05/opdracht05.csproj" />
+  <Project Path="opdracht06/opdracht06.csproj" />
 </Solution>
