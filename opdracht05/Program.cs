@@ -4,7 +4,6 @@ class Program
 {
     static void Main(string[] args)
     {
-
         string hoogte;
         string breedte;
         double resultaat;
