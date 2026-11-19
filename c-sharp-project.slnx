@@ -6,4 +6,5 @@
   <Project Path="opdracht05/opdracht05.csproj" />
   <Project Path="opdracht06/opdracht06.csproj" />
   <Project Path="opdracht07/opdracht07.csproj" />
+  <Project Path="opdracht08/opdracht08.csproj" />
 </Solution>
