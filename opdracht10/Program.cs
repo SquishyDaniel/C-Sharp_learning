@@ -4,6 +4,19 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        
+        int teller = 0;
+
+        while (teller < 10)
+        {
+            teller++;
+            if (teller == 4)
+            {
+                continue;
+            }
+            Console.WriteLine(teller);
+        }
+        
+        
     }
 }
