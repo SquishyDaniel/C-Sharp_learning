@@ -4,6 +4,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        string[] name = new string[] { "Fred", "Daphne", "Shaggy", "Velma", "Scooby" };
+
+        foreach (string set in name)
+        {
+            Console.WriteLine(set);
+        }
+        
     }
 }
